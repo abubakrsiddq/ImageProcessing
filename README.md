@@ -1,2 +1,2 @@
-# ImageProcessing
-Image processing using Nueral Networkd
+# Image Processing
+Image processing using Nueral Networks
